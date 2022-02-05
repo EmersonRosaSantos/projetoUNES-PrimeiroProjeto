@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"wit",
+				"whitesmoke"
+			],
+			[
+				"gree",
+				"greenyellow"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"conteudo-pri",
+				"conteudo-principal"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fonte",
+				"font-weight"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"co",
+				"conteudo-secundario"
+			],
+			[
+				"f",
+				"footer"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"vi",
+				"darkviolet"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"c",
+				"background"
+			],
+			[
+				"A",
+				"a"
+			],
+			[
+				"gre",
+				"greenyellow"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"id",
+				"div"
+			],
+			[
+				"on",
+				"oncontextmenu"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/contato.html",
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/contato.sublime-workspace",
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/projetoUniversidadeUNES.html",
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/quem-somos.html",
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/imagens",
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/arquivos-necessarios-projetos-unes/logo.png",
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/__MACOSX/arquivos-necessarios-projetos-unes/._fundo.png",
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/__MACOSX/arquivos-necessarios-projetos-unes/._fundo2.png",
+		"/C/Users/User/Desktop/ProjetoWeb/Primeira Pagina Web/__MACOSX/arquivos-necessarios-projetos-unes/._logo.png",
+		"/C/Users/User/Desktop/Projeto Aula/estilo.teste-css",
+		"/C/Users/User/Desktop/Projeto Aula/index.html",
+		"/C/Users/User/Desktop/Projeto Aula/css",
+		"/C/Users/User/Desktop/Projeto Aula/javascript",
+		"/C/Users/User/Desktop/Mesa Trabalho Web/css",
+		"/C/Users/User/Desktop/Mesa Trabalho Web/Projeto Web/css",
+		"/C/Users/User/Desktop/ProjetoWeb.zip",
+		"/C/Users/User/Desktop/Primeiro Projeto/meu primeiro projeto/style.css",
+		"/C/Users/User/Desktop/Primeiro Projeto/meu primeiro projeto/projeto.html",
+		"/C/Users/User/Desktop/Minha Primeira Página/Minha Primeira Página/Primeira Pagina/minha primeira pagina",
+		"/C/Users/User/Desktop/Pagina Html. JS/html.js",
+		"/C/Users/User/Desktop/MIQUEIAS #2/projeto.html",
+		"/C/Users/User/Desktop/MIQUEIAS #2/index.html",
+		"/C/Users/User/Desktop/MIQUEIAS #2/style.css",
+		"/C/Users/User/Desktop/C.Emerson 200122.pdf",
+		"/C/Users/User/Desktop/MIQUEIAS #2/118615113_187560629485520_6941504859725722209_n.png",
+		"/C/Users/User/Desktop/Primeiro projeto/Projeto CSS/classes_ids.html",
+		"/C/Users/User/Desktop/Primeiro projeto/Projeto CSS/inline_style.html",
+		"/C/Users/User/Desktop/Primeiro projeto/Projeto CSS/PROJETO CSS.sublime-workspace",
+		"/C/Users/User/Desktop/MIQUEIAS #2/contato.html",
+		"/C/Users/User/Desktop/MIQUEIAS #2/contato1.html",
+		"/C/Users/User/Desktop/MIQUEIAS #2/projeto.gif",
+		"/C/Users/User/Desktop/MIQUEIAS #1/projeto.html",
+		"/C/Users/User/Pictures/julia.png",
+		"/C/Users/User/Desktop/PROETO AULA/CSS/estilo-teste.css",
+		"/C/Users/User/Desktop/PROETO AULA/index.htlm",
+		"/C/Users/User/Desktop/Primeiro projeto/Contato",
+		"/C/Users/User/Desktop/Primeiro projeto/projeto.html",
+		"/C/Users/User/Desktop/Primeiro Projeto/projeto html",
+		"/C/Users/User/Desktop/Primeiro Projeto/primeiro projeto",
+		"/C/Users/User/Desktop/Primeiro Projeto/Minha primeira página web",
+		"/C/Users/User/Desktop/Primeiro Projeto/estilo-teste.css",
+		"/C/Users/User/Desktop/Projeto Web/index.html",
+		"/C/Users/User/Desktop/Primeiro Projeto/projeto.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contato.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"CSS\\estilo-teste.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
